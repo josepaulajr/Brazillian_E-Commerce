@@ -11,7 +11,7 @@ Through Data Visualization using NumPy, Pandas, Matplotlib, and Seaborn, that no
 ## Project Files
 
 ### Notebook
-All analysis, charts, and the source code are in python notebook, but whether you rather see it directly in your browser in Gist:  
+All analysis, charts, and the source code are in the python notebook file that you can easily download, or, whether you rather, see it directly into your browser in my Gist:  
 
 https://gist.github.com/josepaulajr/6f5c849c10d949f5332ecce25cfdce63
 
