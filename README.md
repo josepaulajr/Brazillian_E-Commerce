@@ -1,19 +1,19 @@
 # Brazillian E-Commerce: States and Freights Analyses
 
-Project still in development. 
+This project still in development. 
 
 Last update at (DD/MM/YYYY): 21/07/2021.
 
 ## Resume
 
-Using python, numpy, pandas, matplotlib and seaborn this notebook explore the Brazillian E-Commerce.
+Through Data Visualization using NumPy, Pandas, Matplotlib, and Seaborn, that notebook explores the Brazillian E-Commerce with Python. The project continues in development and, soon, I intend to found the best regression model to predict a freight.
 
 ## Project Files
 
 ### Notebook
 All analysis, charts, and the source code are in python notebook, but whether you rather see it directly in your browser in Gist:  
 
-      https://gist.github.com/josepaulajr/6f5c849c10d949f5332ecce25cfdce63
+https://gist.github.com/josepaulajr/6f5c849c10d949f5332ecce25cfdce63
 
 ### Images
 Images folder contains all charts made in this project.
